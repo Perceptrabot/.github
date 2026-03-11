@@ -2,7 +2,7 @@
 
 
 <p align="center">
-    <img src="./resources/throne2.png" width = 65%  style="display: block; margin: 0 auto">
+    <img src="../resources/throne2.png" width = 65%  style="display: block; margin: 0 auto">
 </p>
 
 
